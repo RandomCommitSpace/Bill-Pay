@@ -42,6 +42,12 @@ Since this is a closed test version, access is limited to pre-seeded users in th
 | **Allowed Emails** | `user1@gmail.com` to `user20@gmail.com` |
 | **Blocked Access** | `09900000001`, `blocked1@gmail.com` |
 
+## 📸 Screenshots
+
+| Login Page | Home Screen | Pay Bills | Payment History | Profile |
+|------------|-------------|-----------|-----------------|---------|
+| <img height="400" alt="login" src="https://github.com/user-attachments/assets/c84cf00c-e6ab-4516-83e5-f9b3ea5e1734" /> | <img height="400" alt="home" src="https://github.com/user-attachments/assets/20d6e044-23ba-4e74-a14b-bb53a361f1e3" /> | <img height="400" alt="pay" src="https://github.com/user-attachments/assets/db5c60fe-cfe8-4e34-b731-9adc2e0bac57" /> | <img height="400" alt="history" src="https://github.com/user-attachments/assets/64878d52-3078-4fb6-a897-27ae9e8a1164" /> | <img height="400" alt="profile" src="https://github.com/user-attachments/assets/087d54ad-dfe3-4285-ade9-ed69c12f42f6" /> | 
+
 ### 🛠 Installation
 1. Clone the repository:
    ```bash
@@ -49,6 +55,12 @@ Since this is a closed test version, access is limited to pre-seeded users in th
    ```
 2. Open the project in **Android Studio**.
 3. Sync Gradle and run on an Emulator or Physical Device (API 24+).
+
+## 📦 Download Release APK
+You can download and test the pre-compiled Android package directly from the Releases page:
+
+👉 [Download Latest APK](https://github.com/RandomCommitSpace/Bill-Pay/releases/tag/v1.0.0)
+
 
 </div>
 
@@ -80,6 +92,13 @@ Since this is a closed test version, access is limited to pre-seeded users in th
 | **ایمیل‌های مجاز** | `user1@gmail.com` تا `user20@gmail.com` |
 | **دسترسی مسدود** | `09900000001`, `blocked1@gmail.com` |
 
+## 📸 اسکرین‌شات‌ها
+
+| صفحه ورود | صفحه اصلی | پرداخت قبض | تاریخچه پرداخت ها | پروفایل |
+|------------|-------------|-----------|-----------------|---------|
+| <img height="400" alt="login" src="https://github.com/user-attachments/assets/c84cf00c-e6ab-4516-83e5-f9b3ea5e1734" /> | <img height="400" alt="home" src="https://github.com/user-attachments/assets/20d6e044-23ba-4e74-a14b-bb53a361f1e3" /> | <img height="400" alt="pay" src="https://github.com/user-attachments/assets/db5c60fe-cfe8-4e34-b731-9adc2e0bac57" /> | <img height="400" alt="history" src="https://github.com/user-attachments/assets/64878d52-3078-4fb6-a897-27ae9e8a1164" /> | <img height="400" alt="profile" src="https://github.com/user-attachments/assets/087d54ad-dfe3-4285-ade9-ed69c12f42f6" /> | 
+
+
 ### 🛠 نصب و اجرا
 ۱. مخزن را کلون کنید:
    ```bash
@@ -87,6 +106,12 @@ Since this is a closed test version, access is limited to pre-seeded users in th
    ```
 ۲. پروژه را در **Android Studio** باز کنید.
 ۳. گرادل را سینک کرده و روی شبیه‌ساز یا دستگاه واقعی (API 24+) اجرا کنید.
+
+
+## 📦 دانلود اپلیکیشن
+شما میتوانید آخرین نسخه این برنامه را از لینک زیر دریافت کنید:
+👈 [دانلود آخرین ورژن](https://github.com/RandomCommitSpace/Bill-Pay/releases/tag/v1.0.0)
+
 
 </div>
 
