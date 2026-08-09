@@ -1,0 +1,72 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/beauBlue"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="24dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="32dp"
+        android:text="خوش آمدید!"
+        android:textColor="@color/metallicBlue"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnPayBill"
+        android:layout_width="300dp"
+        android:layout_height="56dp"
+        android:layout_marginTop="40dp"
+        android:text="➕ پرداخت قبض"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:cornerRadius="16dp"
+        app:backgroundTint="@color/metallicBlue"
+        app:elevation="6dp"
+        app:rippleColor="@color/blueGray"/>
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnHistory"
+        android:layout_width="300dp"
+        android:layout_height="56dp"
+        android:layout_marginTop="10dp"
+        android:text="📜 تاریخچه پرداخت"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:cornerRadius="16dp"
+        app:backgroundTint="@color/metallicBlue"
+        app:elevation="6dp"
+        app:rippleColor="@color/blueGray"/>
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnProfile"
+        android:layout_width="300dp"
+        android:layout_height="56dp"
+        android:layout_marginTop="40dp"
+        android:text="👤 پروفایل"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:cornerRadius="16dp"
+        app:backgroundTint="@color/metallicBlue"
+        app:elevation="6dp"
+        app:rippleColor="@color/blueGray"/>
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnLogout"
+        android:layout_width="300dp"
+        android:layout_height="56dp"
+        android:layout_marginTop="10dp"
+        android:text="🚪 خروج"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:cornerRadius="16dp"
+        app:backgroundTint="@color/metallicBlue"
+        app:elevation="6dp"
+        app:rippleColor="@color/blueGray"/>
+
+</LinearLayout>
