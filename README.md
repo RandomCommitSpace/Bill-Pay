@@ -111,13 +111,16 @@ You can download and test the pre-compiled Android package directly from the Rel
 ## 📦 دانلود اپلیکیشن
 شما میتوانید آخرین نسخه این برنامه را از لینک زیر دریافت کنید:
 👈 [دانلود آخرین ورژن](https://github.com/RandomCommitSpace/Bill-Pay/releases/tag/v1.0.0)
-
-
 </div>
 
 <br>
 
 <div align="center">
+
+## 📞 Contact / تماس
+
+**Developer / توسعه‌دهنده**: Ainaz Taheir  
+**Email / ایمیل**: [RandomCommitSpace@gmail.com](mailto:RandomCommitSpace@gmail.com)
 
 ---
 Developed with ❤️ for Academic Purposes
