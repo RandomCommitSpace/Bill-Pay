@@ -45,7 +45,7 @@ Since this is a closed test version, access is limited to pre-seeded users in th
 ### 🛠 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/BillPayment.git
+   git clone https://github.com/RandomCommitSpace/BillPayment.git
    ```
 2. Open the project in **Android Studio**.
 3. Sync Gradle and run on an Emulator or Physical Device (API 24+).
@@ -83,7 +83,7 @@ Since this is a closed test version, access is limited to pre-seeded users in th
 ### 🛠 نصب و اجرا
 ۱. مخزن را کلون کنید:
    ```bash
-   git clone https://github.com/your-username/BillPayment.git
+   git clone https://github.com/RandomCommitSpace/BillPayment.git
    ```
 ۲. پروژه را در **Android Studio** باز کنید.
 ۳. گرادل را سینک کرده و روی شبیه‌ساز یا دستگاه واقعی (API 24+) اجرا کنید.
